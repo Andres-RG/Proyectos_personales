@@ -1,0 +1,8 @@
+---
+title: "Reporte del Proyecto"
+author: "Luis Andres Rojas Garcia Exp. 279465"
+date: "21/7/2021"
+output: html_document
+---
+
+Aca va todo el archivo .rmd que se genero con el proyecto
